@@ -1,4 +1,1 @@
-first line
-hello
-say goodbye
-nice to meet you
+say hi
